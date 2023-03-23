@@ -1,5 +1,7 @@
 <h2>Products:</h2>
 
+<%= link_to 'New Product', new_product_path %>
+
 <% @products.each do |product| %>
   <%= link_to product_path(product.id), class: 'product' do %>
     <h3 class="name"><%= product.name %></h3>
