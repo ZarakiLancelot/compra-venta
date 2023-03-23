@@ -1,11 +1,11 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  name: MyString
-  description: MyText
-  price: 1
+ps4:
+  name: PS4 PRO
+  description: En excelente estado
+  price: 400
 
-two:
-  name: MyString
-  description: MyText
-  price: 1
+switch:
+  name: Nintendo Switch
+  description: Falla el lector de tarjetas SD
+  price: 200
